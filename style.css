@@ -34,7 +34,7 @@ h2 {
 
 .cardFront {
  position: relative;
- background-image: url(./oliver/O1.1.jpg);
+ background-image: url(oliver/O1.1.jpg);
  width: 255px;
  height: 360px;
  overflow: hidden;
